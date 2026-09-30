@@ -33,5 +33,54 @@
     "h": 120,
     "footX": 12,
     "footY": 120
+  },
+  {
+    "name": "stone-pine",
+    "w": 110,
+    "h": 120,
+    "footX": 51.5,
+    "footY": 120
+  },
+  {
+    "name": "carob",
+    "w": 118,
+    "h": 100,
+    "footX": 64.6,
+    "footY": 100
+  },
+  {
+    "name": "olive",
+    "w": 122,
+    "h": 100,
+    "footX": 53.6,
+    "footY": 100
+  },
+  {
+    "name": "cork-oak",
+    "w": 105,
+    "h": 110,
+    "footX": 52.2,
+    "footY": 110
+  },
+  {
+    "name": "almond",
+    "w": 93,
+    "h": 110,
+    "footX": 46.8,
+    "footY": 110
+  },
+  {
+    "name": "fig",
+    "w": 109,
+    "h": 90,
+    "footX": 51.8,
+    "footY": 90
+  },
+  {
+    "name": "tamarisk",
+    "w": 92,
+    "h": 115,
+    "footX": 35.5,
+    "footY": 115
   }
 ]
