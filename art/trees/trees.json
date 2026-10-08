@@ -82,5 +82,26 @@
     "h": 115,
     "footX": 35.5,
     "footY": 115
+  },
+  {
+    "name": "plane",
+    "w": 125,
+    "h": 112,
+    "footX": 60.8,
+    "footY": 112
+  },
+  {
+    "name": "pine-crooked",
+    "w": 110,
+    "h": 120,
+    "footX": 55.8,
+    "footY": 120
+  },
+  {
+    "name": "pine-young",
+    "w": 108,
+    "h": 120,
+    "footX": 53.3,
+    "footY": 120
   }
 ]
