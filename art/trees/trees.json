@@ -103,5 +103,33 @@
     "h": 120,
     "footX": 53.3,
     "footY": 120
+  },
+  {
+    "name": "pomegranate",
+    "w": 65,
+    "h": 86,
+    "footX": 27.9,
+    "footY": 86
+  },
+  {
+    "name": "date-palm",
+    "w": 55,
+    "h": 120,
+    "footX": 28.4,
+    "footY": 120
+  },
+  {
+    "name": "thuja",
+    "w": 67,
+    "h": 106,
+    "footX": 35.1,
+    "footY": 106
+  },
+  {
+    "name": "juniper",
+    "w": 57,
+    "h": 92,
+    "footX": 28.4,
+    "footY": 92
   }
 ]
